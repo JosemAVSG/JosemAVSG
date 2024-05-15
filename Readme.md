@@ -36,5 +36,5 @@
 - **ORM**:TypeOrm, Prisma
 
 ## Contacto
-- **LinkedIn**: [(https://www.linkedin.com/in/josemavsg/))]
-- **Correo Electrónico**: jmgg.96n@gmail.com
+- **LinkedIn**: https://www.linkedin.com/in/josemavsg/
+- **Correo Electrónico**: jmgg.95n@gmail.com
