@@ -1,4 +1,4 @@
-# Habilidades como Full Stack Developer
+# Habilidades como Web Developer
 
 ## Frontend
 
