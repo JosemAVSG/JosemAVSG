@@ -1,8 +1,8 @@
 # 💫 About Me:
-👋 ¡Hola! Soy José Miguel <br>🚀 Desarrollador apasionado y entusiasta de la tecnología<br>💡 Sobre mí<br>Soy una persona amable, colaborativa, y con un gran sentido del humor , me gusta codear y aprender, tambien me gusta la musica y hacer ejecicio fisico<br>🛠️ Habilidades<br>Lenguajes de programación: [Javascript, PHP, Java, Typescript]<br>Frameworks y librerías: [ React, Angular, Nextjs, Express,Laravel]<br> **Bases de datos:**
+👋 ¡Hola! Soy José Miguel <br>🚀 Desarrollador apasionado y entusiasta de la tecnología<br>💡 Sobre mí<br>Soy una persona amable, colaborativa, y con un gran sentido del humor , me gusta codear y aprender, tambien me gusta la musica y hacer ejecicio fisico<br>🛠️ Habilidades<br>Lenguajes de programación: [Javascript, PHP, Java, Typescript]<br>Frameworks y librerías: [ React, Angular, Nextjs, Express,Laravel]<br> **Bases de datos:
   - **SQL:** {PostgreSQL, MySQL}
   - **NoSQL:** {MongoDB}
-  - **ORM:** {TypeORM, Prisma}<br>
+  - **ORM:** {TypeORM, Prisma}<br>**
 🌱 Actualmente aprendiendo<br>Nestjs, AWS <br><br>📫 Cómo contactarme<br>Email: jmgg.95n@gmail.com<br>LinkedIn: https://www.linkedin.com/in/josemavsg/<br>🎯 Objetivos a futuro<br>Estoy buscando colaborar en proyectos interesantes y desafiantes que me permitan seguir creciendo como desarrollador y contribuir a la comunidad tecnológica.<br><br>¡Gracias por visitar mi perfil! 🚀✨<br>
 
 
