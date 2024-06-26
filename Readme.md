@@ -1,4 +1,4 @@
-<## 💫 About Me:
+### 💫 About Me:
 
 👋 ¡Hola! Soy José Miguel
 
@@ -11,7 +11,7 @@ Soy una persona amable, colaborativa, y con un gran sentido del humor. Me gusta 
 ### 🛠️ Habilidades
 
 - **Lenguajes de programación:** JavaScript, PHP, Java, TypeScript
-- **Frameworks y librerías:** React, Angular, Next.js, Express, Laravel
+- **Frameworks y librerías:** React, Angular, Next.js, Express, Laravel, React Native
 - **Bases de datos:**
   - **SQL:** PostgreSQL, MySQL
   - **NoSQL:** MongoDB
@@ -33,8 +33,6 @@ Estoy buscando colaborar en proyectos interesantes y desafiantes que me permitan
 ---
 
 ¡Gracias por visitar mi perfil! 🚀✨
-
-
 
 ## 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://www.facebook.com/JoseMGuz) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/josemavsg) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://www.youtube.com/channel/UCMTjCAKkSo9FBSSq20NT2yw) 
