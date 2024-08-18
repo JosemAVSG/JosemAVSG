@@ -10,16 +10,17 @@ Soy una persona amable, colaborativa, y con un gran sentido del humor. Me gusta 
 
 ### 🛠️ Habilidades
 
-- **Lenguajes de programación:** JavaScript, PHP, Java, TypeScript
-- **Frameworks y librerías:** React, Angular, Next.js, Express, Laravel, React Native
+- **Lenguajes de programación:** JavaScript, PHP, Java, TypeScript, Python
+- **Frameworks y librerías:** React, Angular, Next.js, Express, Laravel, React Native, NestJs, AWS
 - **Bases de datos:**
   - **SQL:** PostgreSQL, MySQL
   - **NoSQL:** MongoDB
   - **ORM:** TypeORM, Prisma
+- **Herramientas: Figma, Miroo, Trello, Docker
 
 ### 🌱 Actualmente aprendiendo
 
-- NestJS, AWS
+- Astro
 
 ### 📫 Cómo contactarme
 
