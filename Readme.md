@@ -6,7 +6,7 @@
 
 ### 💡 Sobre mí
 
-Soy una persona amable, colaborativa, y con un gran sentido del humor. Me gusta codear y aprender. También me gusta la música y hacer ejercicio físico.
+Soy una persona amable, colaborativa, me gusta aprender y poner en practica lo aprendido, otros intereses  son la música y hacer ejercicio físico.
 
 ### 🛠️ Habilidades
 
