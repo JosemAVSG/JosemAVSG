@@ -1,4 +1,4 @@
-## 💫 About Me
+
 
 👋 Hi! I'm **José Miguel**  
 🚀 A passionate developer and technology enthusiast
